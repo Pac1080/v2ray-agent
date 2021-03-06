@@ -26,7 +26,7 @@
 - 支持Linux、Windows、Android
 - 下面提供的ip，不一定适合所有人，建议使用下方的工具找到最适合自己的CDN ip。
 ```
-https://github.com/badafans/better-cloudflare-ip
+https://github.com/XIU2/CloudflareSpeedTest
 ```
 
 # 智能解析DNS对应的IP[CNAME效果]
@@ -35,7 +35,7 @@ https://github.com/badafans/better-cloudflare-ip
 
 域名|移动|联通|电信
 -|-|-|-
-domain08.qiu4.ml|104.19.41.56|104.16.160.136|104.17.78.198
+domain08.qiu4.ml|104.19.41.56|amp.cloudflare.com|www.digitalocean.com
 amp.cloudflare.com|xx|xx|xx
 www.digitalocean.com|xx|xx|xx
 
